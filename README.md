@@ -50,3 +50,6 @@ The project introduces the fundamentals of operations research, linear programmi
 Through this project, I learned how to formulate and solve optimization problems using linear programming techniques. I gained hands-on experience with the PuLP library, objective functions, decision variables, and business constraints. The project also improved my understanding of operations research concepts and their practical applications in inventory management and profit optimization.
 
 OUTPUT :
+<img width="726" height="131" alt="Image" src="https://github.com/user-attachments/assets/30b0fd47-79de-43d0-896a-2bb3a6399dce" />
+
+<img width="276" height="178" alt="Image" src="https://github.com/user-attachments/assets/1e0de021-a8e2-4a55-83bc-bcddea5bfc0f" />
